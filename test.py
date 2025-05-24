@@ -1,0 +1,1 @@
+print("this class is SE s6")
